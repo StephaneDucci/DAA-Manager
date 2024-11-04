@@ -1,0 +1,1462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ie:IE801 xmlns:ie="urn:publicid:-:EC:DGTAXUD:EMCS:PHASE4:IE801:V3.13" xmlns:tms="urn:publicid:-:EC:DGTAXUD:EMCS:PHASE4:TMS:V3.13">
+    <ie:Header>
+        <tms:MessageSender>NDEA.IT</tms:MessageSender>
+        <tms:MessageRecipient>NDEA.IT</tms:MessageRecipient>
+        <tms:DateOfPreparation>2024-10-28</tms:DateOfPreparation>
+        <tms:TimeOfPreparation>12:54:00.917</tms:TimeOfPreparation>
+        <tms:MessageIdentifier>801_24NL921286088969704S21_1730120040917</tms:MessageIdentifier>
+    </ie:Header>
+    <ie:Body>
+        <ie:EADESADContainer>
+            <ie:ConsigneeTrader language="nl">
+                <ie:Traderid>IT00IMA00026X</ie:Traderid>
+                <ie:TraderName>Silvio Coppo SAS</ie:TraderName>
+                <ie:StreetName>Via Gallardi 206</ie:StreetName>
+                <ie:Postcode>18039</ie:Postcode>
+                <ie:City>Ventimiglia (IM)</ie:City>
+            </ie:ConsigneeTrader>
+            <ie:ExciseMovement>
+                <ie:AdministrativeReferenceCode>24NL921286088969704S2</ie:AdministrativeReferenceCode>
+                <ie:DateAndTimeOfValidationOfEadEsad>2024-10-17T03:52:14.0000</ie:DateAndTimeOfValidationOfEadEsad>
+            </ie:ExciseMovement>
+            <ie:ConsignorTrader language="nl">
+                <ie:TraderExciseNumber>NL04180000123</ie:TraderExciseNumber>
+                <ie:TraderName>PHI Logistics B.V.</ie:TraderName>
+                <ie:StreetName>Steenweg 17</ie:StreetName>
+                <ie:Postcode>9936 BP</ie:Postcode>
+                <ie:City>Farmsum</ie:City>
+            </ie:ConsignorTrader>
+            <ie:PlaceOfDispatchTrader language="nl">
+                <ie:ReferenceOfTaxWarehouse>NLW0000223160</ie:ReferenceOfTaxWarehouse>
+                <ie:TraderName>PHI Logistics BV</ie:TraderName>
+                <ie:StreetName>Spoorhavenweg 25</ie:StreetName>
+                <ie:Postcode>9649 JR</ie:Postcode>
+                <ie:City>Muntendam</ie:City>
+            </ie:PlaceOfDispatchTrader>
+            <ie:DeliveryPlaceTrader language="nl">
+                <ie:Traderid>IT00IMA00026X</ie:Traderid>
+                <ie:TraderName>Silvio Coppo SAS</ie:TraderName>
+                <ie:StreetName>Via Gallardi 206</ie:StreetName>
+                <ie:Postcode>18039</ie:Postcode>
+                <ie:City>Ventimiglia (IM)</ie:City>
+            </ie:DeliveryPlaceTrader>
+            <ie:CompetentAuthorityDispatchOffice>
+                <ie:ReferenceNumber>NL000563</ie:ReferenceNumber>
+            </ie:CompetentAuthorityDispatchOffice>
+            <ie:EadEsad>
+                <ie:LocalReferenceNumber>A47-43906</ie:LocalReferenceNumber>
+                <ie:InvoiceNumber>COP000-295027-1-644969</ie:InvoiceNumber>
+                <ie:InvoiceDate>2024-10-17</ie:InvoiceDate>
+                <ie:OriginTypeCode>1</ie:OriginTypeCode>
+                <ie:DateOfDispatch>2024-10-17</ie:DateOfDispatch>
+                <ie:TimeOfDispatch>04:51:30</ie:TimeOfDispatch>
+            </ie:EadEsad>
+            <ie:HeaderEadEsad>
+                <ie:SequenceNumber>1</ie:SequenceNumber>
+                <ie:DateAndTimeOfUpdateValidation>2024-10-17T03:52:14.0000</ie:DateAndTimeOfUpdateValidation>
+                <ie:DestinationTypeCode>1</ie:DestinationTypeCode>
+                <ie:JourneyTime>D08</ie:JourneyTime>
+                <ie:TransportArrangement>1</ie:TransportArrangement>
+            </ie:HeaderEadEsad>
+            <ie:TransportMode>
+                <ie:TransportModeCode>3</ie:TransportModeCode>
+            </ie:TransportMode>
+            <ie:MovementGuarantee>
+                <ie:GuarantorTypeCode>1</ie:GuarantorTypeCode>
+            </ie:MovementGuarantee>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>1</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22082028</ie:CnCode>
+                <ie:Quantity>25.2</ie:Quantity>
+                <ie:GrossMass>49.85</ie:GrossMass>
+                <ie:NetMass>25.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0231600</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Alto Del Carmen Pisco Reservado NRF CHILI carton @ 6 flessen x 0,7 liter 40% 36 flessen = 25,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>6</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>2</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22084031</ie:CnCode>
+                <ie:Quantity>75.6</ie:Quantity>
+                <ie:GrossMass>133.9</ie:GrossMass>
+                <ie:NetMass>75.6</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>41.5</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0254700</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Nega Fulo BRAZILIË carton @ 6 flessen x 0,7 liter 41,5% 108 flessen = 75,6 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>18</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>3</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22087010</ie:CnCode>
+                <ie:Quantity>6</ie:Quantity>
+                <ie:GrossMass>11.64</ie:GrossMass>
+                <ie:NetMass>6</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>15.7</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0321100</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Baileys Chocolat Luxe IRELAND carton @ 6 bottles x 0,5 liter 15,7% 12 bottles = 6 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>2</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>4</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22085011</ie:CnCode>
+                <ie:Quantity>12.6</ie:Quantity>
+                <ie:GrossMass>26.95</ie:GrossMass>
+                <ie:NetMass>12.6</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>38</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0395400</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Mermaid Pink Gin UNITED KINGDOM carton @ 6 bottles x 0,7 liter 38% 18 bottles = 12,6 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>3</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>5</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22087010</ie:CnCode>
+                <ie:Quantity>12.6</ie:Quantity>
+                <ie:GrossMass>25.37</ie:GrossMass>
+                <ie:NetMass>12.6</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0475400</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Dom Benedictine FRANCE carton @ 6 bottles x 0,7 liter 40% 18 bottles = 12,6 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>3</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>6</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22087010</ie:CnCode>
+                <ie:Quantity>16.8</ie:Quantity>
+                <ie:GrossMass>34.93</ie:GrossMass>
+                <ie:NetMass>16.8</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>20</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0503500</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Safari THE NETHERLANDS carton @ 6 bottles x 0,7 liter 20% 24 bottles = 16,8 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>4</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>7</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22087010</ie:CnCode>
+                <ie:Quantity>24</ie:Quantity>
+                <ie:GrossMass>50.25</ie:GrossMass>
+                <ie:NetMass>24</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>15.5</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0504700</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Sheridan's Double IRELAND carton @ 6 bottles x 1 liter 15,5% 24 bottles = 24 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>4</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>8</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22089054</ie:CnCode>
+                <ie:Quantity>8.4</ie:Quantity>
+                <ie:GrossMass>19.81</ie:GrossMass>
+                <ie:NetMass>8.4</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0585000</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Patron Silver + GB MEXICO carton @ 6 bottles x 0,7 liter 40% 12 bottles = 8,4 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>2</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>9</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083082</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>8.43</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0621900</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Connemara 12 Years + GB IRELAND carton @ 6 bottles x 0,7 liter 40% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>10</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22087010</ie:CnCode>
+                <ie:Quantity>12</ie:Quantity>
+                <ie:GrossMass>20.08</ie:GrossMass>
+                <ie:NetMass>12</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>35</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0650200</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Jack Daniel's Fire UNITED STATES carton @ 6 bottles x 1 liter 35% 12 bottles = 12 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>2</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>11</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083082</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>7.87</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0704000</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Yamazakura Blended + GB JAPAN carton @ 6 bottles x 0,7 liter 40% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>12</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>8.14</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0708800</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">AnCnoc 12 Years + GB UNITED KINGDOM carton @ 6 bottles x 0,7 liter 40% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>13</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>12.6</ie:Quantity>
+                <ie:GrossMass>23.44</ie:GrossMass>
+                <ie:NetMass>12.6</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0710500</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Ardmore Legacy + GB UNITED KINGDOM carton @ 6 bottles x 0,7 liter 40% 18 bottles = 12,6 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>3</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>14</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>8.4</ie:Quantity>
+                <ie:GrossMass>15.42</ie:GrossMass>
+                <ie:NetMass>8.4</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0723900</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Bowmore 12 Years + GB UNITED KINGDOM carton @ 6 bottles x 0,7 liter 40% 12 bottles = 8,4 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>2</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>15</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>9.43</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>46.3</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0733700</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Bunnahabhain 12 Years + GB UNITED KINGDOM carton @ 6 bottles x 0,7 liter 46,3% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>16</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>9.42</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>46.3</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0735600</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Bunnahabhain Stiuireadair + GB UNITED KINGDOM carton @ 6 bottles x 0,7 liter 46,3% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>17</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>8.4</ie:Quantity>
+                <ie:GrossMass>17.32</ie:GrossMass>
+                <ie:NetMass>8.4</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0744700</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Cardhu Amber Rock + GB UNITED KINGDOM carton @ 6 bottles x 0,7 liter 40% 12 bottles = 8,4 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>2</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>18</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>29.4</ie:Quantity>
+                <ie:GrossMass>55.26</ie:GrossMass>
+                <ie:NetMass>29.4</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>43</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0746000</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Caol Ila 12 Years + GB UNITED KINGDOM carton @ 6 bottles x 0,7 liter 43% 42 bottles = 29,4 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>7</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>19</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>25.2</ie:Quantity>
+                <ie:GrossMass>47.08</ie:GrossMass>
+                <ie:NetMass>25.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0750200</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Cragganmore 12 Years + GB VERENIGD KONINKRIJK carton @ 6 flessen x 0,7 liter 40% 36 flessen = 25,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>6</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>20</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>8.4</ie:Quantity>
+                <ie:GrossMass>13.72</ie:GrossMass>
+                <ie:NetMass>8.4</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>43</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0756300</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Dalwhinnie 15 Years + GB VERENIGD KONINKRIJK carton @ 6 flessen x 0,7 liter 43% 12 flessen = 8,4 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>2</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>21</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>8.98</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0757600</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Edradour 10 Years + GB UNITED KINGDOM carton @ 6 bottles x 0,7 liter 40% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>22</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>2.1</ie:Quantity>
+                <ie:GrossMass>4.34</ie:GrossMass>
+                <ie:NetMass>2.1</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0758900</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Finlaggan Old Reserve + GB VERENIGD KONINKRIJK carton @ 6 flessen x 0,7 liter 40% 3 flessen = 2,1 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>23</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>7.91</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>43</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0764800</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">The Glendronach 12 Years + GB UNITED KINGDOM carton @ 6 bottles x 0,7 liter 43% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>24</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>6</ie:Quantity>
+                <ie:GrossMass>11.01</ie:GrossMass>
+                <ie:NetMass>6</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0773400</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Glenfiddich 12 Years + GB UNITED KINGDOM carton @ 6 bottles x 1 liter 40% 6 bottles = 6 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>25</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>7.56</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0784500</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Glen Moray 12 Years + GB UNITED KINGDOM carton @ 6 bottles x 0,7 liter 40% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>26</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>8.45</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>43</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0794700</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Glengoyne 12 Years + GB UNITED KINGDOM carton @ 6 bottles x 0,7 liter 43% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>27</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>8.4</ie:Quantity>
+                <ie:GrossMass>15.84</ie:GrossMass>
+                <ie:NetMass>8.4</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0810900</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Ileach + GB UNITED KINGDOM carton @ 6 bottles x 0,7 liter 40% 12 bottles = 8,4 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>2</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>28</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>6.3</ie:Quantity>
+                <ie:GrossMass>12.25</ie:GrossMass>
+                <ie:NetMass>6.3</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>43</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0813300</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Knockando 12 Years + GB VERENIGD KONINKRIJK carton @ 6 flessen x 0,7 liter 43% 9 flessen = 6,3 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>2</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>29</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>7.66</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>46.3</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0816900</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Ledaig 10 Years + GB UNITED KINGDOM carton @ 6 bottles x 0,7 liter 46,3% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>30</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>2.8</ie:Quantity>
+                <ie:GrossMass>5.86</ie:GrossMass>
+                <ie:NetMass>2.8</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0823100</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">The Macallan 12 Years Sherry Oak + GB VERENIGD KONINKRIJK carton @ 6 flessen x 0,7 liter 40% 4 flessen = 2,8 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>31</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>6</ie:Quantity>
+                <ie:GrossMass>10.21</ie:GrossMass>
+                <ie:NetMass>6</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>45.8</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0848900</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Talisker Dark Storm + GB UNITED KINGDOM carton @ 6 bottles x 1 liter 45,8% 6 bottles = 6 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>32</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22085011</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>9.45</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>43.3</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0894100</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Bathtub Gin UNITED KINGDOM carton @ 6 bottles x 0,7 liter 43,3% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>33</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22085011</ie:CnCode>
+                <ie:Quantity>8.4</ie:Quantity>
+                <ie:GrossMass>17.44</ie:GrossMass>
+                <ie:NetMass>8.4</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>44</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0899400</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Citadelle Gin FRANKRIJK carton @ 6 flessen x 0,7 liter 44% 12 flessen = 8,4 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>2</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>34</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22085011</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>8.1</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>43.5</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0925700</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Fifty Pounds UNITED KINGDOM carton @ 6 bottles x 0,7 liter 43,5% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>35</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22085011</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>8.29</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>41.2</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0946500</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Hayman's London Dry Gin UNITED KINGDOM carton @ 6 bottles x 0,7 liter 41,2% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>36</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22085011</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>9.51</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>45.7</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0952600</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">KI NO BI Kyoto Dry Gin + GB JAPAN carton @ 6 bottles x 0,7 liter 45,7% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>37</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22084031</ie:CnCode>
+                <ie:Quantity>21</ie:Quantity>
+                <ie:GrossMass>44.06</ie:GrossMass>
+                <ie:NetMass>21</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0953700</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Kraken Black Spiced Rum TRINIDAD EN TOBAGO carton @ 6 flessen x 0,7 liter 40% 30 flessen = 21 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>5</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>38</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22085011</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>9.96</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>42</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0969400</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Pickering's Gin VERENIGD KONINKRIJK carton @ 6 flessen x 0,7 liter 42% 6 flessen = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>39</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22085011</ie:CnCode>
+                <ie:Quantity>8.4</ie:Quantity>
+                <ie:GrossMass>17.6</ie:GrossMass>
+                <ie:NetMass>8.4</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>41.6</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L0995900</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Sipsmith London Dry Gin UNITED KINGDOM carton @ 6 bottles x 0,7 liter 41,6% 12 bottles = 8,4 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>2</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>40</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22085011</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>7.64</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>38</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L1014000</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Xoriguer Mahon Gin SPAIN carton @ 6 bottles x 0,7 liter 38% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>41</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22084031</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>7.08</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L1167100</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Abuelo 7 Years PANAMA carton @ 6 bottles x 0,7 liter 40% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>42</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22085011</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>7.56</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>42</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L1170300</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Akori Premium SPANJE carton @ 6 flessen x 0,7 liter 42% 6 flessen = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>43</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22082016</ie:CnCode>
+                <ie:Quantity>2.1</ie:Quantity>
+                <ie:GrossMass>4.13</ie:GrossMass>
+                <ie:NetMass>2.1</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>36</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L1178600</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Lepanto P.X. Brandy + GB SPAIN carton @ 3 bottles x 0,7 liter 36% 3 bottles = 2,1 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>44</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>12</ie:Quantity>
+                <ie:GrossMass>20.5</ie:GrossMass>
+                <ie:NetMass>12</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L1195500</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Ardmore Traditional Peated + GB UNITED KINGDOM carton @ 6 bottles x 1 liter 40% 12 bottles = 12 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>2</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>45</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22087010</ie:CnCode>
+                <ie:Quantity>9</ie:Quantity>
+                <ie:GrossMass>19.49</ie:GrossMass>
+                <ie:NetMass>9</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>17</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L1338900</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Mozart Gold Chocolate OOSTENRIJK carton @ 6 flessen x 0,5 liter 17% 18 flessen = 9 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>3</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>46</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22084031</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>8.82</ie:GrossMass>
+                <ie:NetMass>3.78</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>50</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L1707200</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Clement Rhum Canne Bleue FRANCE carton @ 6 bottles x 0,7 liter 50% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>47</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22084031</ie:CnCode>
+                <ie:Quantity>8.4</ie:Quantity>
+                <ie:GrossMass>21.15</ie:GrossMass>
+                <ie:NetMass>8.4</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L1712500</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Deadhead 6 Years MEXICO carton @ 6 bottles x 0,7 liter 40% 12 bottles = 8,4 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>2</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>48</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22085011</ie:CnCode>
+                <ie:Quantity>12.6</ie:Quantity>
+                <ie:GrossMass>24.18</ie:GrossMass>
+                <ie:NetMass>12.6</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L1721900</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Gin Lane 1751 Old Tom Gin VERENIGD KONINKRIJK carton @ 6 flessen x 0,7 liter 40% 18 flessen = 12,6 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>3</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>49</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>3.5</ie:Quantity>
+                <ie:GrossMass>7.4</ie:GrossMass>
+                <ie:NetMass>3.5</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>46</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L1965400</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Ballechin 10 Years + GB UNITED KINGDOM carton @ 6 bottles x 0,7 liter 46% 5 bottles = 3,5 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>50</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22086011</ie:CnCode>
+                <ie:Quantity>6</ie:Quantity>
+                <ie:GrossMass>9.37</ie:GrossMass>
+                <ie:NetMass>6</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>38</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L2050100</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Grasovka Bison Brand Vodka POLAND carton @ 6 bottles x 1 liter 38% 6 bottles = 6 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>51</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>9.55</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>46</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L2170800</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Tomatin Cu Bocan Signature Limited + GB UNITED KINGDOM carton @ 6 bottles x 0,7 liter 46 %6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>52</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083082</ie:CnCode>
+                <ie:Quantity>6</ie:Quantity>
+                <ie:GrossMass>7.52</ie:GrossMass>
+                <ie:NetMass>6</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L2192800</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Jack Daniel's PET UNITED STATES carton @ 12 x 10 bottles x 0,05 liter 40% 120 bottles = 6 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>53</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>12.6</ie:Quantity>
+                <ie:GrossMass>25.56</ie:GrossMass>
+                <ie:NetMass>12.6</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L2293300</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Cardhu 12 Years + GB UNITED KINGDOM carton @ 6 bottles x 0,7 liter 40% .. 18 bottles = 12,6 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>3</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>54</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22089069</ie:CnCode>
+                <ie:Quantity>8.4</ie:Quantity>
+                <ie:GrossMass>13.29</ie:GrossMass>
+                <ie:NetMass>8.4</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L2360200</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Capel Doble Destilado Reservado Transparente Pisco CHILI carton @ 6 flessen x 0,7 liter 40% 12 flessen = 8,4 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>2</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>55</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22082028</ie:CnCode>
+                <ie:Quantity>0.7</ie:Quantity>
+                <ie:GrossMass>1.82</ie:GrossMass>
+                <ie:NetMass>0.7</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L2484700</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Ararat Brandy Vaspurakan 15 Years + GB ARMENIA carton @ 6 bottles x 0,7 liter 40% 1 bottles = 0,7 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>56</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22085011</ie:CnCode>
+                <ie:Quantity>21</ie:Quantity>
+                <ie:GrossMass>38.67</ie:GrossMass>
+                <ie:NetMass>21</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>43.4</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L2487400</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Hendrick's Lunar VERENIGD KONINKRIJK carton @ 6 flessen x 0,7 liter 43,4% 30 flessen = 21 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>5</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>57</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22084031</ie:CnCode>
+                <ie:Quantity>25.2</ie:Quantity>
+                <ie:GrossMass>39.92</ie:GrossMass>
+                <ie:NetMass>22.68</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>63</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L5007600</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Wray &amp; Nephew White Overproof Rum NRF JAMAICA carton @ 6 bottles x 0,7 liter 63% 36 bottles = 25,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>6</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>58</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>8.78</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>46</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L5033800</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Benriach 10 Years The Smoky Ten + GB UNITED KINGDOM carton @ 6 bottles x 0,7 liter 46% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>59</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083011</ie:CnCode>
+                <ie:Quantity>12.6</ie:Quantity>
+                <ie:GrossMass>22.42</ie:GrossMass>
+                <ie:NetMass>12.6</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>45</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L5043800</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Bulleit Bourbon UNITED STATES carton @ 6 bottles x 0,7 liter 45% 18 bottles = 12,6 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>3</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>60</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>8.4</ie:Quantity>
+                <ie:GrossMass>16.34</ie:GrossMass>
+                <ie:NetMass>8.4</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>43</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L5110400</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Knockando 15 Years Richly Matured + GB UNITED KINGDOM carton @ 6 bottles x 0,7 liter 43% 12 bottles = 8,4 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>2</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>61</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22085011</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>8.83</ie:GrossMass>
+                <ie:NetMass>3.78</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>60</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L5127300</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Blackwoods Vintage 2017 Dry Gin VERENIGD KONINKRIJK carton @ 6 flessen x 0,7 liter 60% 6 flessen = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>62</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>8.72</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>46</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L5183000</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Benriach 12 Years Three Cask Matured + GB UNITED KINGDOM carton @ 6 bottles x 0,7 liter 46% .. 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>63</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22089069</ie:CnCode>
+                <ie:Quantity>6</ie:Quantity>
+                <ie:GrossMass>12.92</ie:GrossMass>
+                <ie:NetMass>6</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L5218400</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Capel Reservado Moai Pisco + GB CHILI carton @ 6 flessen x 1 liter 40% 6 flessen = 6 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>64</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083082</ie:CnCode>
+                <ie:Quantity>8.4</ie:Quantity>
+                <ie:GrossMass>17.17</ie:GrossMass>
+                <ie:NetMass>8.4</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L5459600</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Bushmills 10 Years IRELAND carton @ 6 bottles x 0,7 liter 40% 12 bottles = 8,4 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>2</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>65</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22085011</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>7.65</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>43.4</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L5550800</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Hendrick's Neptunia VERENIGD KONINKRIJK carton @ 6 flessen x 0,7 liter 43,4% 6 flessen = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>66</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22085011</ie:CnCode>
+                <ie:Quantity>1.2</ie:Quantity>
+                <ie:GrossMass>4.12</ie:GrossMass>
+                <ie:NetMass>1.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40.6</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L5583200</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Fallen Angel Blood Orange Gin Miniatures UNITED KINGDOM carton @ 12 bottles x 0,05 liter 40,6% 24 bottles = 1,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>2</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>67</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>2.1</ie:Quantity>
+                <ie:GrossMass>4.08</ie:GrossMass>
+                <ie:NetMass>2.1</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>43</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L5678700</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Knockando 12 Years + GB VERENIGD KONINKRIJK carton @ 6 flessen x 0,7 liter 43% 3 flessen = 2,1 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>68</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22085011</ie:CnCode>
+                <ie:Quantity>1.4</ie:Quantity>
+                <ie:GrossMass>4.05</ie:GrossMass>
+                <ie:NetMass>1.4</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>43</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L5833700</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Suntory Roku Gin + Glass JAPAN carton @ 6 flessen x 0,7 liter 43% 2 flessen = 1,4 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>69</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>9.08</ie:GrossMass>
+                <ie:NetMass>3.78</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>50</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L5837600</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Bruichladdich Port Charlotte 10 Years VERENIGD KONINKRIJK carton @ 6 flessen x 0,7 liter 50% 6 flessen = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>70</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>3.5</ie:Quantity>
+                <ie:GrossMass>7.13</ie:GrossMass>
+                <ie:NetMass>3.5</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>46</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L5852800</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Hunter Laing Highland Journey + GB VERENIGD KONINKRIJK carton @ 6 flessen x 0,7 liter 46 %5 flessen = 3,5 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>71</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22085011</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>7.7</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>43.4</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L5939700</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Hendrick's Flora Adora UNITED KINGDOM carton @ 6 bottles x 0,7 liter 43,4% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>72</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22089054</ie:CnCode>
+                <ie:Quantity>8.4</ie:Quantity>
+                <ie:GrossMass>14.1</ie:GrossMass>
+                <ie:NetMass>8.4</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>38</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L5953800</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Sierra Blanco MEXICO carton @ 6 bottles x 0,7 liter 38% 12 bottles = 8,4 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>2</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>73</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22089054</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>14.25</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L5981300</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Clase Azul Plata + GB MEXICO carton @ 6 flessen x 0,7 liter 40% 6 flessen = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>74</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083082</ie:CnCode>
+                <ie:Quantity>8.4</ie:Quantity>
+                <ie:GrossMass>13.33</ie:GrossMass>
+                <ie:NetMass>8.4</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L6095800</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Canadian Club 12 Years Classic CANADA carton @ 6 bottles x 0,7 liter 40% 12 bottles = 8,4 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>2</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>75</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22089054</ie:CnCode>
+                <ie:Quantity>1.2</ie:Quantity>
+                <ie:GrossMass>1.58</ie:GrossMass>
+                <ie:NetMass>1.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>38</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L6104600</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Sierra Blanco PET MEXICO carton @ 12 flessen x 0,05 liter 38% 24 flessen = 1,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>2</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>76</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22085011</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>8.81</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>43</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L6121800</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Amuerte Coca Leaf Gin Green Edition BELGIUM carton @ 6 bottles x 0,7 liter 43% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>77</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>8.12</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>43</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L6159600</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">AnCnoc Sherry Peated + GB UNITED KINGDOM carton @ 6 bottles x 0,7 liter 43% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>78</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>9.17</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>46</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L6162300</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Lagg Kilmory + GB UNITED KINGDOM carton @ 6 bottles x 0,7 liter 46% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>79</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>9.1</ie:GrossMass>
+                <ie:NetMass>3.78</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>55</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L6162400</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Lagg Corriecravie + GB UNITED KINGDOM carton @ 6 bottles x 0,7 liter 55% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>80</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>7.69</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>43</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L6183200</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Smokehead Islay Single Malt + GB UNITED KINGDOM carton @ 6 bottles x 0,7 liter 43% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>81</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>2.1</ie:Quantity>
+                <ie:GrossMass>4.37</ie:GrossMass>
+                <ie:NetMass>2.1</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>46</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L6262500</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Smokehead Rum Cask Rebel Limited Edition + GB UNITED KINGDOM carton @ 6 bottles x 0,7 li ter 46% 3 bottles = 2,1 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>82</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22086011</ie:CnCode>
+                <ie:Quantity>12</ie:Quantity>
+                <ie:GrossMass>19.56</ie:GrossMass>
+                <ie:NetMass>12</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L6266400</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Belvedere Organic POLEN carton @ 1 bottle x 6 liters 40% 2 flessen = 12 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>2</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>83</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22082012</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>9.74</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L6271000</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Montifaud VSOP + GB FRANKRIJK carton @ 6 flessen x 0,7 liter 40% 6 flessen = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>84</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22086011</ie:CnCode>
+                <ie:Quantity>2.1</ie:Quantity>
+                <ie:GrossMass>7.25</ie:GrossMass>
+                <ie:NetMass>2.1</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L6328000</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Crystal Head Lunar New Year Limited Edition + GB CANADA carton @ 6 bottles x 0,7 liter 4 0%3 bottles = 2,1 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>85</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22085011</ie:CnCode>
+                <ie:Quantity>8.4</ie:Quantity>
+                <ie:GrossMass>18.76</ie:GrossMass>
+                <ie:NetMass>8.4</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>41.6</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L6333700</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Scapegrace Blood Orange Gin NEW ZEALAND carton @ 6 bottles x 0,7 liter 41,6% 12 bottles = 8,4 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>2</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>86</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22085011</ie:CnCode>
+                <ie:Quantity>0.7</ie:Quantity>
+                <ie:GrossMass>1.46</ie:GrossMass>
+                <ie:NetMass>0.7</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>43</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L6349900</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Amuerte Coca Leaf Gin Blue Edition BELGIUM carton @ 6 bottles x 0,7 liter 43% 1 bottles = 0,7 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>87</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22083030</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>7.89</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>45.8</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L6373800</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Port Askaig Islay 8 Years UNITED KINGDOM carton @ 6 bottles x 0,7 liter 45,8% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>88</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22086011</ie:CnCode>
+                <ie:Quantity>24</ie:Quantity>
+                <ie:GrossMass>39.01</ie:GrossMass>
+                <ie:NetMass>24</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L6382700</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Absolut Mosaik ZWEDEN carton @ 12 flessen x 1 liter 40% 24 flessen = 24 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>2</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>89</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22085011</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>8.74</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>43</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L6399300</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Amuerte Coca Leaf Gin Orange Edition BELGIUM carton @ 6 bottles x 0,7 liter 43% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>90</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22085011</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>7.2</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L6438000</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Nordes Gin Limited Edition N 1 SPAIN carton @ 6 bottles x 0,7 liter 40% 6 bottles = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>91</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22082012</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>7.72</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L6448800</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Hennessy VS NBA Nets FRANKRIJK carton @ 6 flessen x 0,7 liter 40% 6 flessen = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:BodyEadEsad>
+                <ie:BodyRecordUniqueReference>92</ie:BodyRecordUniqueReference>
+                <ie:ExciseProductCode>S200</ie:ExciseProductCode>
+                <ie:CnCode>22082012</ie:CnCode>
+                <ie:Quantity>4.2</ie:Quantity>
+                <ie:GrossMass>7.69</ie:GrossMass>
+                <ie:NetMass>4.2</ie:NetMass>
+                <ie:AlcoholicStrengthByVolumeInPercentage>40</ie:AlcoholicStrengthByVolumeInPercentage>
+                <ie:CommercialDescription language="nl">L6449100</ie:CommercialDescription>
+                <ie:BrandNameOfProducts language="nl">Hennessy VS NBA Warrior FRANKRIJK carton @ 6 flessen x 0,7 liter 40% 6 flessen = 4,2 l</ie:BrandNameOfProducts>
+                <ie:Package>
+                    <ie:KindOfPackages>CS</ie:KindOfPackages>
+                    <ie:NumberOfPackages>1</ie:NumberOfPackages>
+                </ie:Package>
+            </ie:BodyEadEsad>
+            <ie:TransportDetails>
+                <ie:TransportUnitCode>2</ie:TransportUnitCode>
+                <ie:IdentityOfTransportUnits>Auto</ie:IdentityOfTransportUnits>
+            </ie:TransportDetails>
+            <ie:ComplementaryInformation>
+                <ie:ConsignorTraderNameSEED>P.H.I. LOGISTICS B.V.</ie:ConsignorTraderNameSEED>
+                <ie:ConsignorTraderStreetSEED>STEENWEG 17 9936BP FARMSUM</ie:ConsignorTraderStreetSEED>
+                <ie:ConsigneeTraderNameSEED>SILVIO COPPO S.A.S. DI COPPO GIAMPIERO&amp;C.</ie:ConsigneeTraderNameSEED>
+                <ie:ConsigneeTraderStreetSEED>VIA GALLARDI 206 18039 VENTIMIGLIA</ie:ConsigneeTraderStreetSEED>
+                <ie:DeliveryPlaceTraderNameSEED>SILVIO COPPO S.A.S. DI COPPO GIAMPIERO&amp;C.</ie:DeliveryPlaceTraderNameSEED>
+                <ie:DeliveryPlaceTraderStreetSEED>VIA GALLARDI 18039 VENTIMIGLIA</ie:DeliveryPlaceTraderStreetSEED>
+            </ie:ComplementaryInformation>
+        </ie:EADESADContainer>
+    </ie:Body>
+</ie:IE801>
